@@ -1,2 +1,3 @@
 # gniotPCwebpage
-welcom
+welcome every one
+now start 
